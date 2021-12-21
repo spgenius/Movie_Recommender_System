@@ -8,6 +8,10 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 Check out the live demo: https://movies-recommender-app-mrs.herokuapp.com/
 
+[![](https://i.imgur.com/cmEMWr1.png)](https://movies-recommender-app-mrs.herokuapp.com/)
+[![](https://i.imgur.com/p848V82.png)](https://movies-recommender-app-mrs.herokuapp.com/)
+
+
 # Note
 
 > #### Use this URL - https://the-movie-buff.herokuapp.com/ - in case if you see application error in the above mentioned URL
